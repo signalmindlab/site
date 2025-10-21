@@ -1,23 +1,386 @@
-- id: doi:10.1371/journal.pcbi.1007128
+# Publications for MD Abdus Samad, Ph.D.
+
+- id: doi:10.1186/s40537-025-01132-7
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  title: Breast cancer prediction with feature-selected XGB classifier, optimized by metaheuristic algorithms
+  date: 2025-01-01
+  publisher: Journal of Big Data
+  link: https://doi.org/10.1186/s40537-025-01132-7
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1007/s40042-025-01303-y
+  type: paper
+  title: Numerical modeling of gain-switched dysprosium-doped yellow fiber lasers
+  date: 2025-01-01
+  publisher: Journal of the Korean Physical Society
+  link: https://doi.org/10.1007/s40042-025-01303-y
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1007/s10614-024-10837-5
+  type: paper
+  title: 'Intelligent Decision Making for Commodities Price Prediction: Opportunities, Challenges and Future Avenues'
+  date: 2025-01-01
+  publisher: Computational Economics
+  link: https://doi.org/10.1007/s10614-024-10837-5
+
+- id: doi:10.1016/j.icte.2024.10.006
+  type: paper
+  title: A graph mining-based approach to analyze the dynamics of the Twitter community of COVID-19 misinformation disseminators
+  date: 2024-10-01
+  publisher: ICT Express
+  link: https://doi.org/10.1016/j.icte.2024.10.006
+
+- id: doi:10.1371/journal.pone.0313835
+  type: paper
+  title: 'StackIL10: A stacking ensemble model for the improved prediction of IL-10 inducing peptides'
+  date: 2024-11-01
+  publisher: PLOS ONE
+  link: https://doi.org/10.1371/journal.pone.0313835
+
+- id: doi:10.3390/s24216895
+  type: paper
+  title: Cloud IaaS Optimization Using Machine Vision at the IoT Edge and the Grid Sensing Algorithm
+  date: 2024-01-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s24216895
+
+- id: doi:10.1038/s41598-024-76359-0
+  type: paper
+  title: An analysis of decipherable red blood cell abnormality detection under federated environment leveraging XAI incorporated deep learning
+  date: 2024-01-01
+  publisher: Scientific Reports
+  link: https://doi.org/10.1038/s41598-024-76359-0
+
+- id: doi:10.1109/ACCESS.2024.3462434
+  type: paper
+  title: 'When to Use Standardization and Normalization: Empirical Evidence From Machine Learning Models and XAI'
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2024.3462434
+
+- id: doi:10.1109/ACCESS.2024.3461798
+  type: paper
+  title: 'A Review of Approaches for Rapid Data Clustering: Challenges, Opportunities, and Future Directions'
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2024.3461798
+
+- id: doi:10.1186/s40537-024-00959-w
+  type: paper
+  title: 'DiabSense: Early Diagnosis of Non-Insulin-Dependent Diabetes Mellitus Using Smartphone-Based Human Activity Recognition and Diabetic Retinopathy Analysis with Graph Neural Network'
+  date: 2024-01-01
+  publisher: Journal of Big Data
+  link: https://doi.org/10.1186/s40537-024-00959-w
+
+- id: doi:10.1109/ACCESS.2024.3422616
+  type: paper
+  title: Hierarchical Attention Module-Based Hotspot Detection in Wafer Fabrication Using Convolutional Neural Network Model
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2024.3422616
+
+- id: doi:10.1371/journal.pone.0305708
+  type: paper
+  title: Deep Transfer Learning-Based Bird Species Classification Using Mel Spectrogram Images
+  date: 2024-01-01
+  publisher: PLOS ONE
+  link: https://doi.org/10.1371/journal.pone.0305708
+
+- id: doi:10.1186/s12874-024-02249-8
+  type: paper
+  title: 'Feature group partitioning: an approach for depression severity prediction with class balancing using machine learning algorithms'
+  date: 2024-06-03
+  publisher: BMC Medical Research Methodology
+  link: https://doi.org/10.1186/s12874-024-02249-8
+
+- id: doi:10.1109/access.2024.3405570
+  type: paper
+  title: Enhancing Early Detection of Diabetic Retinopathy Through the Integration of Deep Learning Models and Explainable Artificial Intelligence
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2024.3405570
+
+- id: doi:10.1109/access.2024.3388489
+  type: paper
+  title: 'LCNN: Lightweight CNN Architecture for Software Defect Feature Identification Using Explainable AI'
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2024.3388489
+
+- id: doi:10.1038/s41598-024-57547-4
+  type: paper
+  title: 'Adaptive neighborhood rough set model for hybrid data processing: a case study on Parkinson''s disease behavioral analysis'
+  date: 2024-04-01
+  publisher: Scientific Reports
+  link: https://doi.org/10.1038/s41598-024-57547-4
+
+- id: doi:10.1109/access.2024.3385430
+  type: paper
+  title: Few-Shot Lightweight SqueezeNet Architecture for Induction Motor Fault Diagnosis Using Limited Thermal Image Dataset
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2024.3385430
+
+- id: doi:10.1109/ACCESS.2024.3378262
+  type: paper
+  title: Medicinal Plant Classification Using Particle Swarm Optimized Cascaded Network
+  date: 2024-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2024.3378262
+
+- id: doi:10.3934/math.2024325
+  type: paper
+  title: A Real-Time Air-Writing Model to Recognize Bengali Character
+  date: 2024-01-01
+  publisher: AIMS Mathematics
+  link: https://doi.org/10.3934/math.2024325
+
+- id: doi:10.1038/s41598-023-49872-x
+  type: paper
+  title: 'Exploring factors influencing the severity of pregnancy anemia in India: a study using proportional odds model'
+  date: 2023-01-01
+  publisher: Scientific Reports
+  link: https://doi.org/10.1038/s41598-023-49872-x
+
+- id: doi:10.1109/ACCESS.2023.3339778
+  type: paper
+  title: 'Artificial Intelligence and Behavioral Economics: A Bibliographic Analysis of Research Field'
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2023.3339778
+
+- id: doi:10.3390/s23239367
+  type: paper
+  title: 'Internet of Things in Pregnancy Care Coordination and Management: A Systematic Review'
+  date: 2023-01-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s23239367
+
+- id: doi:10.1109/ACCESS.2023.3334428
+  type: paper
+  title: Multi-Step Preprocessing with UNet Segmentation and Transfer Learning Model for Pepper Bell Leaf Disease Detection
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2023.3334428
+
+- id: doi:10.3390/bioengineering10111293
+  type: paper
+  title: 'Enhancing Taxonomic Categorization of DNA Sequences with Deep Learning: A Multi-Label Approach'
+  date: 2023-01-01
+  publisher: Bioengineering
+  link: https://doi.org/10.3390/bioengineering10111293
+
+- id: doi:10.1109/ACCESS.2023.3330156
+  type: paper
+  title: A Systematic Survey of AI Models in Financial Market Forecasting for Profitability Analysis
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2023.3330156
+
+- id: doi:10.3390/s23218958
+  type: paper
+  title: A Survey on the Role of Industrial IoT in Manufacturing for Implementation of Smart Industry
+  date: 2023-01-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s23218958
+
+- id: doi:10.3390/diagnostics13213360
+  type: paper
+  title: Benign and Malignant Oral Lesion Image Classification Using Fine-Tuned Transfer Learning Techniques
+  date: 2023-01-01
+  publisher: Diagnostics
+  link: https://doi.org/10.3390/diagnostics13213360
+
+- id: doi:10.1109/ACCESS.2023.3329051
+  type: paper
+  title: 'Software Defects Identification: Results Using Machine Learning and Explainable Artificial Intelligence Techniques'
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2023.3329051
+
+- id: doi:10.1109/JSTARS.2023.3328315
+  type: paper
+  title: 'Deep Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric Literature Review'
+  date: 2023-01-01
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  link: https://doi.org/10.1109/JSTARS.2023.3328315
+
+- id: doi:10.3390/jimaging9100216
+  type: paper
+  title: Real-Time Obstacle Detection with YOLOv8 in a WSN Using UAV Aerial Photography
+  date: 2023-01-01
+  publisher: Journal of Imaging
+  link: https://doi.org/10.3390/jimaging9100216
+
+- id: doi:10.3390/diagnostics13193155
+  type: paper
+  title: Adapted Deep Ensemble Learning-Based Voting Classifier for Osteosarcoma Cancer Classification
+  date: 2023-01-01
+  publisher: Diagnostics
+  link: https://doi.org/10.3390/diagnostics13193155
+
+- id: doi:10.3390/diagnostics13182975
+  type: paper
+  title: Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using CNN
+  date: 2023-09-18
+  publisher: Diagnostics
+  link: https://doi.org/10.3390/diagnostics13182975
+
+- id: doi:10.3390/math11183960
+  type: paper
+  title: 'HGSOXGB: Hunger-Games-Search-Optimization-Based Framework to Predict the Need for ICU Admission for COVID-19 Patients Using EXtreme Gradient Boosting'
+  date: 2023-09-18
+  publisher: Mathematics
+  link: https://doi.org/10.3390/math11183960
+
+- id: doi:10.1109/access.2023.3310541
+  type: paper
+  title: 'DeepPoly: Deep Learning-Based Polyps Segmentation and Classification for Autonomous Colonoscopy Examination'
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2023.3310541
+
+- id: doi:10.3390/diagnostics13101732
+  type: paper
+  title: A Bibliometric Analysis on Arrhythmia Detection and Classification from 2005 to 2022
+  date: 2023-01-01
+  publisher: Diagnostics
+  link: https://doi.org/10.3390/diagnostics13101732
+
+- id: doi:10.1109/ACCESS.2023.3264648
+  type: paper
+  title: Analysis of Centimeter and Millimeter-Wave Path Loss at Emergency Exit
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2023.3264648
+
+- id: doi:10.1371/journal.pone.0282781
+  type: paper
+  title: Path loss measurement and modeling of 5G network in emergency indoor stairwell at 3.7 and 28 GHz
+  date: 2023-03-01
+  publisher: PLOS ONE
+  link: https://doi.org/10.1371/journal.pone.0282781
+
+- id: doi:10.1109/ACCESS.2022.3233877
+  type: paper
+  title: 'Wave Propagation Modeling Techniques in Tunnel Environments: A Survey'
+  date: 2023-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2022.3233877
+
+- id: doi:10.1109/access.2022.3227579
+  type: paper
+  title: Android Ransomware Detection From Traffic Analysis Using Metaheuristic Feature Selection
+  date: 2022-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2022.3227579
+
+- id: doi:10.3390/s22176593
+  type: paper
+  title: Path Loss Investigation in Hall Environment at Centimeter and Millimeter-Wave Bands
+  date: 2022-08-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s22176593
+
+- id: doi:10.32604/cmc.2022.023086
+  type: paper
+  title: Analysis and Modeling of Propagation in Tunnel at 3.7 and 28 GHz
+  date: 2022-01-01
+  publisher: CMC-Computers, Materials & Continua
+  link: https://doi.org/10.32604/cmc.2022.023086
+
+- id: doi:10.3390/s21227747
+  type: paper
+  title: Results of Large-Scale Propagation Models in Campus Corridor at 3.7 and 28 GHz
+  date: 2021-11-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s21227747
+
+- id: doi:10.3390/app11188360
+  type: paper
+  title: 'Scaling of Rain Attenuation Models: A Survey'
+  date: 2021-08-01
+  publisher: Applied Sciences
+  link: https://doi.org/10.3390/app11188360
+
+- id: doi:10.3390/electronics10162030
+  type: paper
+  title: 'Rain attenuation scaling in South Korea: Experimental results and artificial neural network'
+  date: 2021-08-01
+  publisher: Electronics
+  link: https://doi.org/10.3390/electronics10162030
+
+- id: doi:10.1109/ACCESS.2021.3130293
+  type: paper
+  title: 'Centimeter and Millimeter-Wave Propagation Characteristics for Indoor Corridors at 3.7 and 28 GHz: Results from Measurements and Models'
+  date: 2021-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/ACCESS.2021.3130293
+
+- id: doi:10.11591/ijeecs.v23.i2.pp902-909
+  type: paper
+  title: An overview of rain attenuation research in Bangladesh
+  date: 2021-08-01
+  publisher: Indonesian Journal of Electrical Engineering and Computer Science
+  link: https://doi.org/10.11591/ijeecs.v23.i2.pp902-909
+
+- id: doi:10.3390/rs13101965
+  type: paper
+  title: 'A survey of rain fade models for earth–space telecommunication links—taxonomy, methods, and comparative study'
+  date: 2021-05-01
+  publisher: Remote Sensing
+  link: https://doi.org/10.3390/rs13101965
+
+- id: doi:10.1109/access.2021.3076781
+  type: paper
+  title: 'Wireless telecommunication links for rainfall monitoring: Deep learning approach and experimental results'
+  date: 2021-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2021.3076781
+
+- id: doi:10.3390/s21041207
+  type: paper
+  title: A survey of rain attenuation prediction models for terrestrial links—current research challenges and state-of-the-art
+  date: 2021-02-01
+  publisher: Sensors
+  link: https://doi.org/10.3390/s21041207
+
+- id: doi:10.1109/access.2021.3049825
+  type: paper
+  title: 'The effects of rain on terrestrial links at K, Ka and E-bands in South Korea: Based on supervised learning'
+  date: 2021-01-01
+  publisher: IEEE Access
+  link: https://doi.org/10.1109/access.2021.3049825
+
+- id: doi:10.3390/app10176017
+  type: paper
+  title: Learning-assisted rain attenuation prediction models
+  date: 2020-08-01
+  publisher: Applied Sciences
+  link: https://doi.org/10.3390/app10176017
+
+- id: doi:10.2298/SJEE1503263H
+  type: paper
+  title: The tropospheric scintillation prediction of earth-to-satellite link for Bangladeshi climatic condition
+  date: 2015-01-01
+  publisher: Serbian Journal of Electrical Engineering
+  link: https://doi.org/10.2298/SJEE1503263H
+
+- id: doi:10.4028/www.scientific.net/AMR.566.49
+  type: paper
+  title: FIR Filter Design Using Modified Lanczos Window Function
+  date: 2012-09-01
+  publisher: Advanced Materials Research
+  link: https://doi.org/10.4028/www.scientific.net/AMR.566.49
+
+- id: doi:10.5121/ijcseit.2012.2209
+  type: paper
+  title: A Novel Window Function Yielding Suppressed Mainlobe Width and Minimum Sidelobe Peak
+  date: 2012-04-01
+  publisher: International Journal of Computer Science, Engineering and Information Technology
+  link: https://doi.org/10.5121/ijcseit.2012.2209
+
+- id: doi:10.1109/ICIEV.2014.6850828
+  type: conference
+  title: Correlation between brain's adjoin and diverse hemisphere for motor imagery task relating to central and peripheral nervous system
+  date: 2014-01-01
+  publisher: International Conference on Informatics, Electronics & Vision (ICIEV)
+  link: https://doi.org/10.1109/ICIEV.2014.6850828
