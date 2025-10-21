@@ -1,7 +1,7 @@
 ---
 ---
 
-# SignalMind Lab's Website
+# SignalMind Lab
 
 SignalMind Lab is an interdisciplinary research lab at the intersection of AI/ML, neuroscience, signal processing, and data analytics. We advance scientific understanding through collaborative research partnerships with academic institutions worldwide.
 
