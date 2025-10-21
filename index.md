@@ -1,9 +1,9 @@
 ---
 ---
 
-# signalmindlab's Website
+# SignalMind Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+SignalMind Lab is an interdisciplinary research lab at the intersection of AI/ML, neuroscience, signal processing, and data analytics. We advance scientific understanding through collaborative research partnerships with academic institutions worldwide.
 
 {% include section.html %}
 
