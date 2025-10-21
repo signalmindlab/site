@@ -1,191 +1,729 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/cancers17172853
+  title: Explainable Deep Ensemble Meta-Learning Framework for Brain Tumor Classification
+    Using MRI Images
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Shawon Chakrabarty Kakon
+  - Zawad Al Sazid
+  - Ismat Ara Begum
+  - Md Abdus Samad
+  - A. S. M. Sanwar Hosen
+  publisher: Cancers
+  date: '2025-08-30'
+  link: https://doi.org/g97jb5
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.icte.2024.10.006
+  title: A graph mining-based approach to analyze the dynamics of the Twitter community
+    of COVID-19 misinformation disseminators
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Asma Ul Hussna
+  - Risul Islam
+  - Md Golam Rabiul Alam
+  - Jia Uddin
+  - Imran Ashraf
+  - Md Abdus Samad
+  publisher: ICT Express
+  date: '2024-12-01'
+  link: https://doi.org/g97jb6
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1371/journal.pone.0313835
+  title: 'StackIL10: A stacking ensemble model for the improved prediction of IL-10
+    inducing peptides'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Izaz Ahmmed Tuhin
+  - Md. Rajib Mia
+  - Md. Monirul Islam
+  - Imran Mahmud
+  - Henry Fabian Gongora
+  - Carlos Uc Rios
+  - Imran Ashraf
+  - Md. Abdus Samad
+  publisher: PLOS ONE
+  date: '2024-11-14'
+  link: https://doi.org/g97jb7
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/s24216895
+  title: Cloud IaaS Optimization Using Machine Vision at the IoT Edge and the Grid
+    Sensing Algorithm
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Nuruzzaman Faruqui
+  - Sandesh Achar
+  - Sandeepkumar Racherla
+  - Vineet Dhanawat
+  - Prathyusha Sripathi
+  - Md. Monirul Islam
+  - Jia Uddin
+  - Manal A. Othman
+  - Md Abdus Samad
+  - Kwonhue Choi
+  publisher: Sensors
+  date: '2024-10-27'
+  link: https://doi.org/g97jb8
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1371/journal.pone.0305708
+  title: Deep transfer learning-based bird species classification using mel spectrogram
+    images
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Mrinal Kanti Baowaly
+  - Bisnu Chandra Sarkar
+  - Md. Abul Ala Walid
+  - Md. Martuza Ahamad
+  - Bikash Chandra Singh
+  - Eduardo Silva Alvarado
+  - Imran Ashraf
+  - Md. Abdus Samad
+  publisher: PLOS ONE
+  date: '2024-08-12'
+  link: https://doi.org/g97jb9
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/ACCESS.2024.3461798
+  title: 'A Review of Approaches for Rapid Data Clustering: Challenges, Opportunities,
+    and Future Directions'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - ' Mahnoor'
+  - Imran Shafi
+  - Mahnoor Chaudhry
+  - Elizabeth Caro Montero
+  - Eduardo Silva Alvarado
+  - Isabel de la Torre Diez
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jcb
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/JSTARS.2023.3328315
+  title: 'Deep-Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric
+    Literature Review'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Kazi Rakib Hasan
+  - Anamika Biswas Tuli
+  - Md. Al-Masrur Khan
+  - Seong-Hoon Kee
+  - Md Abdus Samad
+  - Abdullah-Al Nahid
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2024-01-01'
+  link: https://doi.org/g97jcc
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/ACCESS.2024.3405570
+  title: Enhancing Early Detection of Diabetic Retinopathy Through the Integration
+    of Deep Learning Models and Explainable Artificial Intelligence
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Kazi Ahnaf Alavee
+  - Mehedi Hasan
+  - Abu Hasnayen Zillanee
+  - Moin Mostakim
+  - Jia Uddin
+  - Eduardo Silva Alvarado
+  - Isabel de la Torre Diez
+  - Imran Ashraf
+  - Md Abdus Samad
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jcd
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3385430
+  title: Few-Shot Lightweight SqueezeNet Architecture for Induction Motor Fault Diagnosis
+    Using Limited Thermal Image Dataset
+  authors:
+  - Farhan Md. Siraj
+  - Syed Tasnimul Karim Ayon
+  - Md. Abdus Samad
+  - Jia Uddin
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jcf
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3383309
+  title: Incorporating Meteorological Data and Pesticide Information to Forecast Crop
+    Yields Using Machine Learning
+  authors:
+  - Md Jiabul Hoque
+  - Md. Saiful Islam
+  - Jia Uddin
+  - Md. Abdus Samad
+  - Beatriz Sainz De Abajo
+  - "D\xE9bora Libertad Ram\xEDrez Vargas"
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jcg
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3388489
+  title: 'LCNN: Lightweight CNN Architecture for Software Defect Feature Identification
+    Using Explainable AI'
+  authors:
+  - Momotaz Begum
+  - Mehedi Hasan Shuvo
+  - Mostofa Kamal Nasir
+  - Amran Hossain
+  - Mohammad Jakir Hossain
+  - Imran Ashraf
+  - Jia Uddin
+  - Md. Abdus Samad
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jch
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3378262
+  title: Medicinal Plant Classification Using Particle Swarm Optimized Cascaded Network
+  authors:
+  - Md. Tarequl Islam
+  - Wahidur Rahman
+  - Md. Shakhawat Hossain
+  - Kaniz Roksana
+  - "Irma Dom\xEDnguez Azp\xEDroz"
+  - "Raquel Mart\xEDnez Diaz"
+  - Imran Ashraf
+  - Md. Abdus Samad
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jcj
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3462434
+  title: 'When to Use Standardization and Normalization: Empirical Evidence From Machine
+    Learning Models and XAI'
+  authors:
+  - Khaled Mahmud Sujon
+  - Rohayanti Binti Hassan
+  - Zeba Tusnia Towshi
+  - Manal A. Othman
+  - Md Abdus Samad
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g97jck
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s23239367
+  title: 'Internet of Things in Pregnancy Care Coordination and Management: A Systematic
+    Review'
+  authors:
+  - Mohammad Mobarak Hossain
+  - Mohammod Abul Kashem
+  - Md. Monirul Islam
+  - Md. Sahidullah
+  - Sumona Hoque Mumu
+  - Jia Uddin
+  - Daniel Gavilanes Aray
+  - Isabel de la Torre Diez
+  - Imran Ashraf
+  - Md Abdus Samad
+  publisher: Sensors
+  date: '2023-11-23'
+  link: https://doi.org/g97jcm
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/bioengineering10111293
+  title: 'Enhancing Taxonomic Categorization of DNA Sequences with Deep Learning:
+    A Multi-Label Approach'
+  authors:
+  - Prommy Sultana Hossain
+  - Kyungsup Kim
+  - Jia Uddin
+  - Md Abdus Samad
+  - Kwonhue Choi
+  publisher: Bioengineering
+  date: '2023-11-08'
+  link: https://doi.org/g97jcn
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s23218958
+  title: A Survey on the Role of Industrial IoT in Manufacturing for Implementation
+    of Smart Industry
+  authors:
+  - Muhammad Shoaib Farooq
+  - Muhammad Abdullah
+  - Shamyla Riaz
+  - Atif Alvi
+  - Furqan Rustam
+  - "Miguel Angel L\xF3pez Flores"
+  - "Juan Castanedo Gal\xE1n"
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: Sensors
+  date: '2023-11-03'
+  link: https://doi.org/g97jcp
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13213360
+  title: Benign and Malignant Oral Lesion Image Classification Using Fine-Tuned Transfer
+    Learning Techniques
+  authors:
+  - Md. Monirul Islam
+  - K. M. Rafiqul Alam
+  - Jia Uddin
+  - Imran Ashraf
+  - Md Abdus Samad
+  publisher: Diagnostics
+  date: '2023-11-01'
+  link: https://doi.org/g97jcq
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jimaging9100216
+  title: Real-Time Obstacle Detection with YOLOv8 in a WSN Using UAV Aerial Photography
+  authors:
+  - Shakila Rahman
+  - Jahid Hasan Rony
+  - Jia Uddin
+  - Md Abdus Samad
+  publisher: Journal of Imaging
+  date: '2023-10-10'
+  link: https://doi.org/g97jcr
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13193155
+  title: Adapted Deep Ensemble Learning-Based Voting Classifier for Osteosarcoma Cancer
+    Classification
+  authors:
+  - Md. Abul Ala Walid
+  - Swarnali Mollick
+  - Pintu Chandra Shill
+  - Mrinal Kanti Baowaly
+  - Md. Rabiul Islam
+  - Md. Martuza Ahamad
+  - Manal A. Othman
+  - Md Abdus Samad
+  publisher: Diagnostics
+  date: '2023-10-09'
+  link: https://doi.org/g97jcs
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/math11183960
+  title: 'HGSOXGB: Hunger-Games-Search-Optimization-Based Framework to Predict the
+    Need for ICU Admission for COVID-19 Patients Using eXtreme Gradient Boosting'
+  authors:
+  - Farhana Tazmim Pinki
+  - Md Abdul Awal
+  - Khondoker Mirazul Mumenin
+  - Md. Shahadat Hossain
+  - Jabed Al Faysal
+  - Rajib Rana
+  - Latifah Almuqren
+  - Amel Ksibi
+  - Md Abdus Samad
+  publisher: Mathematics
+  date: '2023-09-18'
+  link: https://doi.org/g97jct
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13182975
+  title: Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using
+    CNN
+  authors:
+  - Turrnum Shahzadi
+  - Muhammad Usman Ali
+  - Fiaz Majeed
+  - Muhammad Usman Sana
+  - "Raquel Mart\xEDnez Diaz"
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: Diagnostics
+  date: '2023-09-18'
+  link: https://doi.org/g97jcv
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13101732
+  title: A Bibliometric Analysis on Arrhythmia Detection and Classification from 2005
+    to 2022
+  authors:
+  - Ummay Umama Gronthy
+  - Uzzal Biswas
+  - Salauddin Tapu
+  - Md Abdus Samad
+  - Abdullah-Al Nahid
+  publisher: Diagnostics
+  date: '2023-05-13'
+  link: https://doi.org/g97jcw
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0282781
+  title: Path loss measurement and modeling of 5G network in emergency indoor stairwell
+    at 3.7 and 28 GHz
+  authors:
+  - Md Abdus Samad
+  - Dong-You Choi
+  - Kwonhue Choi
+  publisher: PLOS ONE
+  date: '2023-03-28'
+  link: https://doi.org/g97jcx
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3330156
+  title: A Systematic Survey of AI Models in Financial Market Forecasting for Profitability
+    Analysis
+  authors:
+  - Bilal Hassan Ahmed Khattak
+  - Imran Shafi
+  - Abdul Saboor Khan
+  - Emmanuel Soriano Flores
+  - "Roberto Garc\xEDa Lara"
+  - Md. Abdus Samad
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g8t6x8
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3264648
+  title: Analysis of Centimeter and Millimeter-Wave Path Loss at Emergency Exit
+  authors:
+  - Md. Abdus Samad
+  - Dong-You Choi
+  - Hyungseop Son
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g97jcz
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3339778
+  title: 'Artificial Intelligence and Behavioral Economics: A Bibliographic Analysis
+    of Research Field'
+  authors:
+  - Zakaria Aoujil
+  - Mohamed Hanine
+  - Emmanuel Soriano Flores
+  - Md. Abdus Samad
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g97jc2
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3310541
+  title: 'DeepPoly: Deep Learning-Based Polyps Segmentation and Classification for
+    Autonomous Colonoscopy Examination'
+  authors:
+  - Md Shakhawat Hossain
+  - Md. Mahmudur Rahman
+  - M. Mahbubul Syeed
+  - Mohammad Faisal Uddin
+  - Mahady Hasan
+  - Md. Aulad Hossain
+  - Amel Ksibi
+  - Mona M. Jamjoom
+  - Zahid Ullah
+  - Md Abdus Samad
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g97jc3
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3334428
+  title: Multi-Step Preprocessing With UNet Segmentation and Transfer Learning Model
+    for Pepper Bell Leaf Disease Detection
+  authors:
+  - Aisha Ahmed AlArfaj
+  - Abdulaziz Altamimi
+  - Turki Aljrees
+  - Shakila Basheer
+  - Muhammad Umer
+  - Md. Abdus Samad
+  - Shtwai Alsubai
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g97jc4
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3329051
+  title: 'Software Defects Identification: Results Using Machine Learning and Explainable
+    Artificial Intelligence Techniques'
+  authors:
+  - Momotaz Begum
+  - Mehedi Hasan Shuvo
+  - Imran Ashraf
+  - Abdullah Al Mamun
+  - Jia Uddin
+  - Md Abdus Samad
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g97jc5
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3233877
+  title: 'Wave Propagation Modeling Techniques in Tunnel Environments: A Survey'
+  authors:
+  - Md. Abdus Samad
+  - Sung-Woong Choi
+  - Chung-Sup Kim
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g7pvp5
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s22176593
+  title: Path Loss Investigation in Hall Environment at Centimeter and Millimeter-Wave
+    Bands
+  authors:
+  - Md Abdus Samad
+  - Dong-You Choi
+  - Kwonhue Choi
+  publisher: Sensors
+  date: '2022-08-31'
+  link: https://doi.org/g97jc6
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/cmc.2022.023086
+  title: Analysis and Modeling of Propagation in Tunnel at 3.7 and 28 GHz
+  authors:
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: Computers, Materials &amp; Continua
+  date: '2022-01-01'
+  link: https://doi.org/g97jc7
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3227579
+  title: Android Ransomware Detection From Traffic Analysis Using Metaheuristic Feature
+    Selection
+  authors:
+  - Md. Sakir Hossain
+  - Naim Hasan
+  - Md. Abdus Samad
+  - Hossain Md. Shakhawat
+  - Joydeep Karmoker
+  - Foysol Ahmed
+  - K. F. M. Nafiz Fuad
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g97jc8
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11591/ijeecs.v23.i2.pp902-909
+  title: An overview of rain attenuation research in Bangladesh
+  authors:
+  - Md Abdus Samad
+  - Md. Razu Ahmed
+  - Syed Zahidur Rashid
+  publisher: Indonesian Journal of Electrical Engineering and Computer Science
+  date: '2021-08-01'
+  link: https://doi.org/g97jc9
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/rs13101965
+  title: "A Survey of Rain Fade Models for Earth\u2013Space Telecommunication Links\u2014\
+    Taxonomy, Methods, and Comparative Study"
+  authors:
+  - Md Abdus Samad
+  - Feyisa Debo Diba
+  - Dong-You Choi
+  publisher: Remote Sensing
+  date: '2021-05-18'
+  link: https://doi.org/g97jdb
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3076781
+  title: 'Wireless Telecommunication Links for Rainfall Monitoring: Deep Learning
+    Approach and Experimental Results'
+  authors:
+  - Feyisa Debo Diba
+  - Md Abdus Samad
+  - Jiwan Ghimire
+  - Dong-You Choi
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/gms2h6
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s21041207
+  title: "A Survey of Rain Attenuation Prediction Models for Terrestrial Links\u2014\
+    Current Research Challenges and State-of-the-Art"
+  authors:
+  - Md Abdus Samad
+  - Feyisa Debo Diba
+  - Dong-You Choi
+  publisher: Sensors
+  date: '2021-02-09'
+  link: https://doi.org/gms2hf
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3049825
+  title: 'The Effects of Rain on Terrestrial Links at K, Ka and E-Bands in South Korea:
+    Based on Supervised Learning'
+  authors:
+  - Feyisa Debo Diba
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g97jdc
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3130293
+  title: 'Centimeter and Millimeter-Wave Propagation Characteristics for Indoor Corridors:
+    Results From Measurements and Models'
+  authors:
+  - Feyisa Debo Diba
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g97jdd
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics10162030
+  title: 'Rain Attenuation Scaling in South Korea: Experimental Results and Artificial
+    Neural Network'
+  authors:
+  - Md Abdus Samad
+  - Feyisa Debo Diba
+  - Dong-You Choi
+  publisher: Electronics
+  date: '2021-08-22'
+  link: https://doi.org/g97jdf
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app11188360
+  title: 'Scaling of Rain Attenuation Models: A Survey'
+  authors:
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: Applied Sciences
+  date: '2021-09-09'
+  link: https://doi.org/g97jdg
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app10176017
+  title: Learning-Assisted Rain Attenuation Prediction Models
+  authors:
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: Applied Sciences
+  date: '2020-08-31'
+  link: https://doi.org/g97jdh
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2298/sjee1503263h
+  title: The tropospheric scintillation prediction of earth-to-satellite link for
+    Bangladeshi climatic condition
+  authors:
+  - Muhammad Hossain
+  - Muhammad Samad
+  publisher: Serbian Journal of Electrical Engineering
+  date: '2015-01-01'
+  link: https://doi.org/g97jdj
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.9790/2834-09440106
+  title: A Comparative Study of Carrier Frequency Offset (CFO) Estimation Techniques
+    for OFDM Systems
+  authors:
+  - Abdul Gani Abshir
+  - M. M. Abdullahi
+  - Md. Abdus Samad
+  publisher: IOSR Journal of Electronics and Communication Engineering
+  date: '2014-01-01'
+  link: https://doi.org/g97jdk
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICIEV.2014.6850828
+  title: Correlation between brain's adjoin and diverse hemisphere for motor imagery
+    task relating to central and peripheral nervous system
+  authors:
+  - Md. Abdus Samad
+  - Md. Imanul Huq
+  publisher: 2014 International Conference on Informatics, Electronics &amp; Vision
+    (ICIEV)
+  date: '2014-05-01'
+  link: https://doi.org/g97jdm
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5121/ijcseit.2012.2209
+  title: A Novel Window Function Yielding Suppressed Mainlobe Width and Minimum Sidelobe
+    Peak
+  authors:
+  - Md Abdus Samad
+  publisher: International Journal of Computer Science, Engineering and Information
+    Technology
+  date: '2012-04-30'
+  link: https://doi.org/g97jdn
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:103.99.128.10:8080/xmlui/handle/123456789/227
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://hdl.handle.net/103.99.128.10:8080/xmlui/handle/123456789/227
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4028/www.scientific.net/amr.566.49
+  title: FIR Filter Design Using Modified Lanczos Window Function
+  authors:
+  - Md. Abdus Samad
+  - Jia Uddin
+  - Md. Razu Ahmed
+  publisher: Advanced Materials Research
+  date: '2012-09-01'
+  link: https://doi.org/g97jdq
+  orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -201,9 +739,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +755,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
