@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="hello@signalmindlab.com"
-  link="hello@signalmindlab.com"
+  text="hello@signalmindlab.org"
+  link="hello@signalmindlab.org"
 %}
 <!--{%
   include button.html
