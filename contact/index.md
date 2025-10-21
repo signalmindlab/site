@@ -38,7 +38,7 @@ Have questions? Fill out the form below and we'll get back to you.
   <iframe 
     src="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform?embedded=true" 
     width="100%" 
-    height="2000" 
+    height="1700" 
     frameborder="0" 
     marginheight="0" 
     marginwidth="0" 
@@ -62,8 +62,6 @@ Have questions? Fill out the form below and we'll get back to you.
   overflow: hidden;
 }
 </style>
-
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 {% include section.html %}
 
