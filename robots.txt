@@ -1,1 +1,1 @@
-Sitemap: https://signalmindlab.github.io/site/sitemap.xml
+Sitemap: https://www.signalmindlab.org/sitemap.xml
