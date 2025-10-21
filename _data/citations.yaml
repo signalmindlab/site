@@ -26,11 +26,12 @@
   - Imran Ashraf
   - Md Abdus Samad
   publisher: ICT Express
-  date: '2024-12-01'
-  link: https://doi.org/g97jb6
+  date: '2024-10-01'
+  link: https://doi.org/10.1016/j.icte.2024.10.006
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1371/journal.pone.0313835
   title: 'StackIL10: A stacking ensemble model for the improved prediction of IL-10
     inducing peptides'
@@ -44,11 +45,12 @@
   - Imran Ashraf
   - Md. Abdus Samad
   publisher: PLOS ONE
-  date: '2024-11-14'
-  link: https://doi.org/g97jb7
+  date: '2024-11-01'
+  link: https://doi.org/10.1371/journal.pone.0313835
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/s24216895
   title: Cloud IaaS Optimization Using Machine Vision at the IoT Edge and the Grid
     Sensing Algorithm
@@ -64,14 +66,15 @@
   - Md Abdus Samad
   - Kwonhue Choi
   publisher: Sensors
-  date: '2024-10-27'
-  link: https://doi.org/g97jb8
+  date: '2024-01-01'
+  link: https://doi.org/10.3390/s24216895
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1371/journal.pone.0305708
-  title: Deep transfer learning-based bird species classification using mel spectrogram
-    images
+  title: Deep Transfer Learning-Based Bird Species Classification Using Mel Spectrogram
+    Images
   authors:
   - Mrinal Kanti Baowaly
   - Bisnu Chandra Sarkar
@@ -82,11 +85,12 @@
   - Imran Ashraf
   - Md. Abdus Samad
   publisher: PLOS ONE
-  date: '2024-08-12'
-  link: https://doi.org/g97jb9
+  date: '2024-01-01'
+  link: https://doi.org/10.1371/journal.pone.0305708
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2024.3461798
   title: 'A Review of Approaches for Rapid Data Clustering: Challenges, Opportunities,
     and Future Directions'
@@ -101,12 +105,13 @@
   - Imran Ashraf
   publisher: IEEE Access
   date: '2024-01-01'
-  link: https://doi.org/g97jcb
+  link: https://doi.org/10.1109/ACCESS.2024.3461798
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/JSTARS.2023.3328315
-  title: 'Deep-Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric
+  title: 'Deep Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric
     Literature Review'
   authors:
   - Kazi Rakib Hasan
@@ -117,11 +122,12 @@
   - Abdullah-Al Nahid
   publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
     Sensing
-  date: '2024-01-01'
-  link: https://doi.org/g97jcc
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/JSTARS.2023.3328315
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2024.3405570
   title: Enhancing Early Detection of Diabetic Retinopathy Through the Integration
     of Deep Learning Models and Explainable Artificial Intelligence
@@ -204,10 +210,11 @@
   - Md. Abdus Samad
   publisher: IEEE Access
   date: '2024-01-01'
-  link: https://doi.org/g97jcj
+  link: https://doi.org/10.1109/ACCESS.2024.3378262
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2024.3462434
   title: 'When to Use Standardization and Normalization: Empirical Evidence From Machine
     Learning Models and XAI'
@@ -220,10 +227,11 @@
   - Kwonhue Choi
   publisher: IEEE Access
   date: '2024-01-01'
-  link: https://doi.org/g97jck
+  link: https://doi.org/10.1109/ACCESS.2024.3462434
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/s23239367
   title: 'Internet of Things in Pregnancy Care Coordination and Management: A Systematic
     Review'
@@ -239,11 +247,12 @@
   - Imran Ashraf
   - Md Abdus Samad
   publisher: Sensors
-  date: '2023-11-23'
-  link: https://doi.org/g97jcm
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/s23239367
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/bioengineering10111293
   title: 'Enhancing Taxonomic Categorization of DNA Sequences with Deep Learning:
     A Multi-Label Approach'
@@ -254,11 +263,12 @@
   - Md Abdus Samad
   - Kwonhue Choi
   publisher: Bioengineering
-  date: '2023-11-08'
-  link: https://doi.org/g97jcn
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/bioengineering10111293
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/s23218958
   title: A Survey on the Role of Industrial IoT in Manufacturing for Implementation
     of Smart Industry
@@ -273,11 +283,12 @@
   - Md Abdus Samad
   - Imran Ashraf
   publisher: Sensors
-  date: '2023-11-03'
-  link: https://doi.org/g97jcp
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/s23218958
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/diagnostics13213360
   title: Benign and Malignant Oral Lesion Image Classification Using Fine-Tuned Transfer
     Learning Techniques
@@ -288,11 +299,12 @@
   - Imran Ashraf
   - Md Abdus Samad
   publisher: Diagnostics
-  date: '2023-11-01'
-  link: https://doi.org/g97jcq
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/diagnostics13213360
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/jimaging9100216
   title: Real-Time Obstacle Detection with YOLOv8 in a WSN Using UAV Aerial Photography
   authors:
@@ -301,11 +313,12 @@
   - Jia Uddin
   - Md Abdus Samad
   publisher: Journal of Imaging
-  date: '2023-10-10'
-  link: https://doi.org/g97jcr
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/jimaging9100216
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/diagnostics13193155
   title: Adapted Deep Ensemble Learning-Based Voting Classifier for Osteosarcoma Cancer
     Classification
@@ -319,14 +332,15 @@
   - Manal A. Othman
   - Md Abdus Samad
   publisher: Diagnostics
-  date: '2023-10-09'
-  link: https://doi.org/g97jcs
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/diagnostics13193155
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/math11183960
   title: 'HGSOXGB: Hunger-Games-Search-Optimization-Based Framework to Predict the
-    Need for ICU Admission for COVID-19 Patients Using eXtreme Gradient Boosting'
+    Need for ICU Admission for COVID-19 Patients Using EXtreme Gradient Boosting'
   authors:
   - Farhana Tazmim Pinki
   - Md Abdul Awal
@@ -339,10 +353,11 @@
   - Md Abdus Samad
   publisher: Mathematics
   date: '2023-09-18'
-  link: https://doi.org/g97jct
+  link: https://doi.org/10.3390/math11183960
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/diagnostics13182975
   title: Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using
     CNN
@@ -356,10 +371,11 @@
   - Imran Ashraf
   publisher: Diagnostics
   date: '2023-09-18'
-  link: https://doi.org/g97jcv
+  link: https://doi.org/10.3390/diagnostics13182975
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/diagnostics13101732
   title: A Bibliometric Analysis on Arrhythmia Detection and Classification from 2005
     to 2022
@@ -370,11 +386,12 @@
   - Md Abdus Samad
   - Abdullah-Al Nahid
   publisher: Diagnostics
-  date: '2023-05-13'
-  link: https://doi.org/g97jcw
+  date: '2023-01-01'
+  link: https://doi.org/10.3390/diagnostics13101732
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1371/journal.pone.0282781
   title: Path loss measurement and modeling of 5G network in emergency indoor stairwell
     at 3.7 and 28 GHz
@@ -383,11 +400,12 @@
   - Dong-You Choi
   - Kwonhue Choi
   publisher: PLOS ONE
-  date: '2023-03-28'
-  link: https://doi.org/g97jcx
+  date: '2023-03-01'
+  link: https://doi.org/10.1371/journal.pone.0282781
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2023.3330156
   title: A Systematic Survey of AI Models in Financial Market Forecasting for Profitability
     Analysis
@@ -401,10 +419,11 @@
   - Imran Ashraf
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g8t6x8
+  link: https://doi.org/10.1109/ACCESS.2023.3330156
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2023.3264648
   title: Analysis of Centimeter and Millimeter-Wave Path Loss at Emergency Exit
   authors:
@@ -414,10 +433,11 @@
   - Kwonhue Choi
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g97jcz
+  link: https://doi.org/10.1109/ACCESS.2023.3264648
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2023.3339778
   title: 'Artificial Intelligence and Behavioral Economics: A Bibliographic Analysis
     of Research Field'
@@ -429,10 +449,11 @@
   - Imran Ashraf
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g97jc2
+  link: https://doi.org/10.1109/ACCESS.2023.3339778
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2023.3310541
   title: 'DeepPoly: Deep Learning-Based Polyps Segmentation and Classification for
     Autonomous Colonoscopy Examination'
@@ -454,7 +475,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2023.3334428
-  title: Multi-Step Preprocessing With UNet Segmentation and Transfer Learning Model
+  title: Multi-Step Preprocessing with UNet Segmentation and Transfer Learning Model
     for Pepper Bell Leaf Disease Detection
   authors:
   - Aisha Ahmed AlArfaj
@@ -467,10 +488,11 @@
   - Imran Ashraf
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g97jc4
+  link: https://doi.org/10.1109/ACCESS.2023.3334428
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2023.3329051
   title: 'Software Defects Identification: Results Using Machine Learning and Explainable
     Artificial Intelligence Techniques'
@@ -483,10 +505,11 @@
   - Md Abdus Samad
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g97jc5
+  link: https://doi.org/10.1109/ACCESS.2023.3329051
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2022.3233877
   title: 'Wave Propagation Modeling Techniques in Tunnel Environments: A Survey'
   authors:
@@ -496,10 +519,11 @@
   - Kwonhue Choi
   publisher: IEEE Access
   date: '2023-01-01'
-  link: https://doi.org/g7pvp5
+  link: https://doi.org/10.1109/ACCESS.2022.3233877
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/s22176593
   title: Path Loss Investigation in Hall Environment at Centimeter and Millimeter-Wave
     Bands
@@ -508,22 +532,24 @@
   - Dong-You Choi
   - Kwonhue Choi
   publisher: Sensors
-  date: '2022-08-31'
-  link: https://doi.org/g97jc6
+  date: '2022-08-01'
+  link: https://doi.org/10.3390/s22176593
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.32604/cmc.2022.023086
   title: Analysis and Modeling of Propagation in Tunnel at 3.7 and 28 GHz
   authors:
   - Md Abdus Samad
   - Dong-You Choi
-  publisher: Computers, Materials &amp; Continua
+  publisher: CMC-Computers, Materials & Continua
   date: '2022-01-01'
-  link: https://doi.org/g97jc7
+  link: https://doi.org/10.32604/cmc.2022.023086
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2022.3227579
   title: Android Ransomware Detection From Traffic Analysis Using Metaheuristic Feature
     Selection
@@ -550,23 +576,25 @@
   - Syed Zahidur Rashid
   publisher: Indonesian Journal of Electrical Engineering and Computer Science
   date: '2021-08-01'
-  link: https://doi.org/g97jc9
+  link: https://doi.org/10.11591/ijeecs.v23.i2.pp902-909
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/rs13101965
-  title: "A Survey of Rain Fade Models for Earth\u2013Space Telecommunication Links\u2014\
-    Taxonomy, Methods, and Comparative Study"
+  title: "A survey of rain fade models for earth\u2013space telecommunication links\u2014\
+    taxonomy, methods, and comparative study"
   authors:
   - Md Abdus Samad
   - Feyisa Debo Diba
   - Dong-You Choi
   publisher: Remote Sensing
-  date: '2021-05-18'
-  link: https://doi.org/g97jdb
+  date: '2021-05-01'
+  link: https://doi.org/10.3390/rs13101965
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2021.3076781
   title: 'Wireless Telecommunication Links for Rainfall Monitoring: Deep Learning
     Approach and Experimental Results'
@@ -582,18 +610,19 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/s21041207
-  title: "A Survey of Rain Attenuation Prediction Models for Terrestrial Links\u2014\
-    Current Research Challenges and State-of-the-Art"
+  title: "A survey of rain attenuation prediction models for terrestrial links\u2014\
+    current research challenges and state-of-the-art"
   authors:
   - Md Abdus Samad
   - Feyisa Debo Diba
   - Dong-You Choi
   publisher: Sensors
-  date: '2021-02-09'
-  link: https://doi.org/gms2hf
+  date: '2021-02-01'
+  link: https://doi.org/10.3390/s21041207
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1109/ACCESS.2021.3049825
   title: 'The Effects of Rain on Terrestrial Links at K, Ka and E-Bands in South Korea:
     Based on Supervised Learning'
@@ -608,53 +637,57 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2021.3130293
-  title: 'Centimeter and Millimeter-Wave Propagation Characteristics for Indoor Corridors:
-    Results From Measurements and Models'
+  title: 'Centimeter and Millimeter-Wave Propagation Characteristics for Indoor Corridors
+    at 3.7 and 28 GHz: Results from Measurements and Models'
   authors:
   - Feyisa Debo Diba
   - Md Abdus Samad
   - Dong-You Choi
   publisher: IEEE Access
   date: '2021-01-01'
-  link: https://doi.org/g97jdd
+  link: https://doi.org/10.1109/ACCESS.2021.3130293
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/electronics10162030
-  title: 'Rain Attenuation Scaling in South Korea: Experimental Results and Artificial
-    Neural Network'
+  title: 'Rain attenuation scaling in South Korea: Experimental results and artificial
+    neural network'
   authors:
   - Md Abdus Samad
   - Feyisa Debo Diba
   - Dong-You Choi
   publisher: Electronics
-  date: '2021-08-22'
-  link: https://doi.org/g97jdf
+  date: '2021-08-01'
+  link: https://doi.org/10.3390/electronics10162030
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/app11188360
   title: 'Scaling of Rain Attenuation Models: A Survey'
   authors:
   - Md Abdus Samad
   - Dong-You Choi
   publisher: Applied Sciences
-  date: '2021-09-09'
-  link: https://doi.org/g97jdg
+  date: '2021-08-01'
+  link: https://doi.org/10.3390/app11188360
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.3390/app10176017
-  title: Learning-Assisted Rain Attenuation Prediction Models
+  title: Learning-assisted rain attenuation prediction models
   authors:
   - Md Abdus Samad
   - Dong-You Choi
   publisher: Applied Sciences
-  date: '2020-08-31'
-  link: https://doi.org/g97jdh
+  date: '2020-08-01'
+  link: https://doi.org/10.3390/app10176017
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.2298/sjee1503263h
   title: The tropospheric scintillation prediction of earth-to-satellite link for
     Bangladeshi climatic condition
@@ -686,13 +719,13 @@
   authors:
   - Md. Abdus Samad
   - Md. Imanul Huq
-  publisher: 2014 International Conference on Informatics, Electronics &amp; Vision
-    (ICIEV)
-  date: '2014-05-01'
-  link: https://doi.org/g97jdm
+  publisher: International Conference on Informatics, Electronics & Vision (ICIEV)
+  date: '2014-01-01'
+  link: https://doi.org/10.1109/ICIEV.2014.6850828
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: conference
 - id: doi:10.5121/ijcseit.2012.2209
   title: A Novel Window Function Yielding Suppressed Mainlobe Width and Minimum Sidelobe
     Peak
@@ -700,11 +733,12 @@
   - Md Abdus Samad
   publisher: International Journal of Computer Science, Engineering and Information
     Technology
-  date: '2012-04-30'
-  link: https://doi.org/g97jdn
+  date: '2012-04-01'
+  link: https://doi.org/10.5121/ijcseit.2012.2209
   orcid: 0000-0002-1990-6924
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: handle:103.99.128.10:8080/xmlui/handle/123456789/227
   title: ''
   authors: []
@@ -726,61 +760,323 @@
   orcid: 0000-0002-1990-6924
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1186/s40537-025-01132-7
+  title: Breast cancer prediction with feature-selected XGB classifier, optimized
+    by metaheuristic algorithms
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Proshenjit Sarker
+  - Amel Ksibi
+  - Mona M. Jamjoom
+  - Kwonhue Choi
+  - Abdullah Al Nahid
+  - Md Abdus Samad
+  publisher: Journal of Big Data
+  date: '2025-01-01'
+  link: https://doi.org/10.1186/s40537-025-01132-7
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/s40042-025-01303-y
+  title: Numerical modeling of gain-switched dysprosium-doped yellow fiber lasers
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Iffat Ara Talin
+  - Md. Ziaul Amin
+  - Md. Abdus Samad
+  publisher: Journal of the Korean Physical Society
+  date: '2025-01-01'
+  link: https://doi.org/10.1007/s40042-025-01303-y
+  type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1007/s10614-024-10837-5
+  title: 'Intelligent Decision Making for Commodities Price Prediction: Opportunities,
+    Challenges and Future Avenues'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Natasha Saeed
+  - Imran Shafi
+  - Sidra Pervez
+  - Ernesto Bautista Thompson
+  - Angel Kuc Castilla
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: Computational Economics
+  date: '2025-01-01'
+  link: https://doi.org/10.1007/s10614-024-10837-5
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-024-76359-0
+  title: An analysis of decipherable red blood cell abnormality detection under federated
+    environment leveraging XAI incorporated deep learning
+  authors:
+  - Shakib Mahmud Dipto
+  - Md Tanzim Reza
+  - Nadia Tasnim Mim
+  - Amel Ksibi
+  - Shrooq Alsenan
+  - Jia Uddin
+  - Md Abdus Samad
+  publisher: Scientific Reports
+  date: '2024-01-01'
+  link: https://doi.org/10.1038/s41598-024-76359-0
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s40537-024-00959-w
+  title: 'DiabSense: Early Diagnosis of Non-Insulin-Dependent Diabetes Mellitus Using
+    Smartphone-Based Human Activity Recognition and Diabetic Retinopathy Analysis
+    with Graph Neural Network'
+  authors:
+  - Md Nuho Ul Alam
+  - Ibrahim Hasnine
+  - Erfanul Hoque Bahadur
+  - Abdul Kadar Muhammad Masum
+  - Mercedes Briones Urbano
+  - Manuel Masias Vergara
+  - Jia Uddin
+  - Imran Ashraf
+  - Md. Abdus Samad
+  publisher: Journal of Big Data
+  date: '2024-01-01'
+  link: https://doi.org/10.1186/s40537-024-00959-w
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2024.3422616
+  title: Hierarchical Attention Module-Based Hotspot Detection in Wafer Fabrication
+    Using Convolutional Neural Network Model
+  authors:
+  - Mobeen Shahroz
+  - Mudasir Ali
+  - Alishba Tahir
+  - Henry Fabian Gongora
+  - Carlos Uc Rios
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/ACCESS.2024.3422616
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12874-024-02249-8
+  title: 'Feature group partitioning: an approach for depression severity prediction
+    with class balancing using machine learning algorithms'
+  authors:
+  - "Tumpa\_Rani Shaha"
+  - Momotaz Begum
+  - Jia Uddin
+  - "Vanessa\_Y\xE9lamos Torres"
+  - "Josep\_Alemany Iturriaga"
+  - Imran Ashraf
+  - Md. Abdus Samad
+  publisher: BMC Medical Research Methodology
+  date: '2024-06-03'
+  link: https://doi.org/10.1186/s12874-024-02249-8
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2024.3405570
+  title: Enhancing Early Detection of Diabetic Retinopathy Through the Integration
+    of Deep Learning Models and Explainable Artificial Intelligence
+  authors:
+  - Kazi Ahnaf Alavee
+  - Mehedi Hasan
+  - Abu Hasnayen Zillanee
+  - Moin Mostakim
+  - Jia Uddin
+  - Eduardo Silva Alvarado
+  - Isabel de la Torre Diez
+  - Imran Ashraf
+  - Md Abdus Samad
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/access.2024.3405570
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2024.3388489
+  title: 'LCNN: Lightweight CNN Architecture for Software Defect Feature Identification
+    Using Explainable AI'
+  authors:
+  - Momotaz Begum
+  - Mehedi Hasan Shuvo
+  - Mostofa Kamal Nasir
+  - Amran Hossain
+  - Mohammad Jakir Hossain
+  - Imran Ashraf
+  - Jia Uddin
+  - Md. Abdus Samad
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/access.2024.3388489
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-024-57547-4
+  title: 'Adaptive neighborhood rough set model for hybrid data processing: a case
+    study on Parkinson''s disease behavioral analysis'
+  authors:
+  - Imran Raza
+  - Muhammad Hasan Jamal
+  - Rizwan Qureshi
+  - Abdul Karim Shahid
+  - Angel Olider Rojas Vistorte
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: Scientific Reports
+  date: '2024-04-01'
+  link: https://doi.org/10.1038/s41598-024-57547-4
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2024.3385430
+  title: Few-Shot Lightweight SqueezeNet Architecture for Induction Motor Fault Diagnosis
+    Using Limited Thermal Image Dataset
+  authors:
+  - Farhan Md. Siraj
+  - Syed Tasnimul Karim Ayon
+  - Md. Abdus Samad
+  - Jia Uddin
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/access.2024.3385430
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3934/math.2024325
+  title: A Real-Time Air-Writing Model to Recognize Bengali Character
+  authors:
+  - Mohammed Abdul Kader
+  - Muhammad Ahsan Ullah
+  - Md Saiful Islam
+  - "Ferm\xEDn Ferriol S\xE1nchez"
+  - Md Abdus Samad
+  - Imran Ashraf
+  publisher: AIMS Mathematics
+  date: '2024-01-01'
+  link: https://doi.org/10.3934/math.2024325
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-49872-x
+  title: 'Exploring factors influencing the severity of pregnancy anemia in India:
+    a study using proportional odds model'
+  authors:
+  - Iffat Ara Talin
+  - Mahmudul Hasan Abid
+  - Md Abdus Samad
+  - "Irma Dom\xEDnguez Azp\xEDroz"
+  - Isabel de la Torre Diez
+  - Imran Ashraf
+  - Abdullah-Al Nahid
+  publisher: Scientific Reports
+  date: '2023-01-01'
+  link: https://doi.org/10.1038/s41598-023-49872-x
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2023.3310541
+  title: 'DeepPoly: Deep Learning-Based Polyps Segmentation and Classification for
+    Autonomous Colonoscopy Examination'
+  authors:
+  - Md Shakhawat Hossain
+  - Md. Mahmudur Rahman
+  - M. Mahbubul Syeed
+  - Mohammad Faisal Uddin
+  - Mahady Hasan
+  - Md. Aulad Hossain
+  - Amel Ksibi
+  - Mona M. Jamjoom
+  - Zahid Ullah
+  - Md Abdus Samad
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/access.2023.3310541
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2022.3227579
+  title: Android Ransomware Detection From Traffic Analysis Using Metaheuristic Feature
+    Selection
+  authors:
+  - Md. Sakir Hossain
+  - Naim Hasan
+  - Md. Abdus Samad
+  - Hossain Md. Shakhawat
+  - Joydeep Karmoker
+  - Foysol Ahmed
+  - K. F. M. Nafiz Fuad
+  - Kwonhue Choi
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/access.2022.3227579
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s21227747
+  title: Results of Large-Scale Propagation Models in Campus Corridor at 3.7 and 28
+    GHz
+  authors:
+  - Md Abdus Samad
+  - Feyisa Debo Diba
+  - Young-Jin Kim
+  - Dong-You Choi
+  publisher: Sensors
+  date: '2021-11-01'
+  link: https://doi.org/10.3390/s21227747
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2021.3076781
+  title: 'Wireless telecommunication links for rainfall monitoring: Deep learning
+    approach and experimental results'
+  authors:
+  - Feyisa Debo Diba
+  - Md Abdus Samad
+  - Jiwan Ghimire
+  - Dong-You Choi
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/access.2021.3076781
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2021.3049825
+  title: 'The effects of rain on terrestrial links at K, Ka and E-bands in South Korea:
+    Based on supervised learning'
+  authors:
+  - Feyisa Debo Diba
+  - Md Abdus Samad
+  - Dong-You Choi
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/access.2021.3049825
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2298/SJEE1503263H
+  title: The tropospheric scintillation prediction of earth-to-satellite link for
+    Bangladeshi climatic condition
+  authors:
+  - Muhammad Hossain
+  - Muhammad Samad
+  publisher: Serbian Journal of Electrical Engineering
+  date: '2015-01-01'
+  link: https://doi.org/10.2298/SJEE1503263H
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4028/www.scientific.net/AMR.566.49
+  title: FIR Filter Design Using Modified Lanczos Window Function
+  authors:
+  - Md. Abdus Samad
+  - Jia Uddin
+  - Md. Razu Ahmed
+  publisher: Advanced Materials Research
+  date: '2012-09-01'
+  link: https://doi.org/10.4028/www.scientific.net/AMR.566.49
+  type: paper
   plugin: sources.py
   file: sources.yaml
