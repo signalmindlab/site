@@ -29,8 +29,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}-->
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!--# Contact Us -->
 
 Have questions? Fill out the form below and we'll get back to you.
@@ -63,7 +62,7 @@ Have questions? Fill out the form below and we'll get back to you.
   overflow: hidden;
 }
 </style>
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<! --%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 {% include section.html %}
 
 {% capture col1 %}
