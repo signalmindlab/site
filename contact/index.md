@@ -23,7 +23,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}-->
-<--{%
+<!--{%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
@@ -31,7 +31,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}-->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Contact Us
+<!--# Contact Us -->
 
 Have questions? Fill out the form below and we'll get back to you.
 
