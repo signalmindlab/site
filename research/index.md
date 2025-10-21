@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Breast cancer prediction with feature-selected XGB classifier, optimized by metaheuristic algorithms
+" style="rich" %}
 
 {% include section.html %}
 
