@@ -1,10 +1,97 @@
 <!-- fallback image for component images. don't delete! -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750">
-  <rect fill="white" x="0" y="0" width="1000" height="750" />
-  <!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-  <path
-    transform="translate(500, 375) scale(0.8) translate(-224, -256)"
-    fill="#f0f0f0"
-    d="M288 0H160 128C110.3 0 96 14.3 96 32s14.3 32 32 32V196.8c0 11.8-3.3 23.5-9.5 33.5L10.3 406.2C3.6 417.2 0 429.7 0 442.6C0 480.9 31.1 512 69.4 512H378.6c38.3 0 69.4-31.1 69.4-69.4c0-12.8-3.6-25.4-10.3-36.4L329.5 230.4c-6.2-10.1-9.5-21.7-9.5-33.5V64c17.7 0 32-14.3 32-32s-14.3-32-32-32H288zM192 196.8V64h64V196.8c0 23.7 6.6 46.9 19 67.1L309.5 320h-171L173 263.9c12.4-20.2 19-43.4 19-67.1z"
-  />
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#ffffff"/>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E5C8A;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9B59B6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6C3A7C;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27AE60;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E67E22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D35400;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Arrow marker -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#555" />
+    </marker>
+  </defs>
+  
+  <!-- Title area -->
+  <rect x="0" y="0" width="400" height="60" fill="#f8f9fa"/>
+  <text x="200" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" 
+        text-anchor="middle" fill="#2c3e50">Data Analysis Pipeline</text>
+  
+  <!-- Central workflow -->
+  <g id="workflow">
+    <!-- Step 1: Data Input -->
+    <rect x="50" y="100" width="80" height="60" rx="8" fill="url(#blueGrad)" stroke="#2E5C8A" stroke-width="2"/>
+    <text x="90" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+          text-anchor="middle" fill="white">Data</text>
+    <text x="90" y="142" font-family="Arial, sans-serif" font-size="11" 
+          text-anchor="middle" fill="white">Input</text>
+    
+    <!-- Arrow 1 -->
+    <line x1="130" y1="130" x2="165" y2="130" stroke="#555" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 2: Processing -->
+    <rect x="175" y="100" width="80" height="60" rx="8" fill="url(#purpleGrad)" stroke="#6C3A7C" stroke-width="2"/>
+    <text x="215" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+          text-anchor="middle" fill="white">Process</text>
+    <text x="215" y="142" font-family="Arial, sans-serif" font-size="11" 
+          text-anchor="middle" fill="white">Analysis</text>
+    
+    <!-- Arrow 2 -->
+    <line x1="255" y1="130" x2="290" y2="130" stroke="#555" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 3: Results -->
+    <rect x="300" y="100" width="80" height="60" rx="8" fill="url(#greenGrad)" stroke="#27AE60" stroke-width="2"/>
+    <text x="340" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+          text-anchor="middle" fill="white">Results</text>
+    <text x="340" y="142" font-family="Arial, sans-serif" font-size="11" 
+          text-anchor="middle" fill="white">Output</text>
+  </g>
+  
+  <!-- Bottom visualization elements -->
+  <g id="visualization">
+    <!-- Chart bars -->
+    <rect x="60" y="250" width="30" height="80" fill="#4A90E2" opacity="0.8"/>
+    <rect x="100" y="220" width="30" height="110" fill="#9B59B6" opacity="0.8"/>
+    <rect x="140" y="240" width="30" height="90" fill="#2ECC71" opacity="0.8"/>
+    
+    <!-- Network nodes -->
+    <circle cx="250" cy="260" r="20" fill="url(#orangeGrad)" stroke="#D35400" stroke-width="2"/>
+    <circle cx="310" cy="240" r="18" fill="url(#blueGrad)" stroke="#2E5C8A" stroke-width="2"/>
+    <circle cx="290" cy="300" r="16" fill="url(#purpleGrad)" stroke="#6C3A7C" stroke-width="2"/>
+    <circle cx="340" cy="290" r="15" fill="url(#greenGrad)" stroke="#27AE60" stroke-width="2"/>
+    
+    <!-- Network connections -->
+    <line x1="250" y1="260" x2="310" y2="240" stroke="#999" stroke-width="2"/>
+    <line x1="250" y1="260" x2="290" y2="300" stroke="#999" stroke-width="2"/>
+    <line x1="310" y1="240" x2="340" y2="290" stroke="#999" stroke-width="2"/>
+    <line x1="290" y1="300" x2="340" y2="290" stroke="#999" stroke-width="2"/>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="90" cy="210" r="3" fill="#4A90E2"/>
+  <circle cx="340" cy="210" r="3" fill="#2ECC71"/>
+  <line x1="50" y1="340" x2="350" y2="340" stroke="#ddd" stroke-width="1"/>
+  
+  <!-- Caption area -->
+  <text x="200" y="370" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#7f8c8d" font-style="italic">Integrated Computational Framework</text>
 </svg>
