@@ -5,6 +5,6 @@
 
   # signalmindlab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[signalmindlab.github.io/site](https://signalmindlab.github.io/site)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
