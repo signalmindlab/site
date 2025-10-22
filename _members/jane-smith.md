@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Md Abdus Samad
+image: images/mas.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Yeungnam University
 aliases:
-  - J. Smith
-  - J Smith
+  - M.A. Samad
+  - Abdus Samad
+  - MA Samad
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.drabdus.info
+  orcid: 0000-0002-1990-6924
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Md Abdus Samad received his Ph.D. from Chosun University, South Korea. His doctoral studies were supported by the Global Korea Scholarship program. In addition, his research project was supported by the National Research Foundation of Korea. He has published over 60 papers in reputable SCIE/SSCI journals. He also serves as a peer reviewer for various international journals indexed in the Web of Science. His research focuses on Data Science, Wireless Communication, RF Propagation, and Machine Learning.
