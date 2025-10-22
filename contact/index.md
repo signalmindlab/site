@@ -71,121 +71,20 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   }
 </style> -->
 
-  <div class="contact-method">
-    <h4>Online Form</h4>
-    <p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform" 
-         target="_blank" 
-         rel="noopener noreferrer"
-         class="form-button">
-        Fill out our contact form
-      </a>
-    </p>
-    <p><strong>Best for:</strong> Quick questions, tour requests, or initial interest</p>
-    
-    <div class="form-guidelines">
-      <p><strong>What to Include:</strong></p>
-      <ul>
-        <li>Your name and affiliation</li>
-        <li>Purpose of your inquiry</li>
-        <li>Any relevant background or context</li>
-        <li>Preferred method and timeline for response</li>
-      </ul>
-    </div>
-  </div>
+#### 📝 Online Form
+**[Fill out our contact form here](https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform)**
 
-  <p class="response-time">We aim to respond to all inquiries within 2-3 business days.</p>
-</div>
+**Best for:** Quick questions, tour requests, or initial interest
 
-<style>
-  .contact-section {
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 2rem;
-    line-height: 1.6;
-  }
+**What to Include:**
+- Your name and affiliation
+- Purpose of your inquiry
+- Any relevant background or context
+- Preferred method and timeline for response
 
-  .contact-section h2 {
-    color: #333;
-    margin-bottom: 1rem;
-  }
+---
 
-  .contact-section h3 {
-    color: #444;
-    margin-top: 2rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .contact-method {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-    border-radius: 8px;
-    border-left: 4px solid #4285f4;
-  }
-
-  .contact-method h4 {
-    color: #333;
-    margin-top: 0;
-    margin-bottom: 1rem;
-  }
-
-  .contact-method p {
-    margin: 0.5rem 0;
-  }
-
-  .form-button {
-    display: inline-block;
-    padding: 12px 24px;
-    background-color: #4285f4;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: 500;
-    transition: background-color 0.3s;
-    margin: 1rem 0;
-  }
-
-  .form-button:hover {
-    background-color: #357ae8;
-  }
-
-  .form-guidelines {
-    margin-top: 1rem;
-    padding: 1rem;
-    background: white;
-    border-radius: 5px;
-  }
-
-  .form-guidelines ul {
-    margin: 0.5rem 0;
-    padding-left: 1.5rem;
-  }
-
-  .form-guidelines li {
-    margin: 0.3rem 0;
-  }
-
-  .response-time {
-    text-align: center;
-    font-style: italic;
-    color: #666;
-    margin-top: 2rem;
-    padding: 1rem;
-    background: #fff9e6;
-    border-radius: 5px;
-  }
-
-  a[href^="mailto:"] {
-    color: #4285f4;
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  a[href^="mailto:"]:hover {
-    text-decoration: underline;
-  }
-</style>
+> **Response Time:** We aim to respond to all inquiries within 2-3 business days.
 
 
 
