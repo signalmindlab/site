@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Signal Mind Lab, our research explores how signals — whether neural, sensory, environmental, or digital — are perceived, processed, and transformed into meaningful representations of the world. We study the intersection of signal perception, intelligent computation, and cognitive modeling, seeking to understand how information flows across systems both natural and artificial.
+
+Our interdisciplinary team brings together expertise from signal processing, machine learning, neuroscience, systems engineering, and computational modeling. We believe in fostering a collaborative environment where mathematical rigor meets creative exploration, and where diverse perspectives drive innovation in understanding signals in their many forms.
 
 {% include section.html %}
 
