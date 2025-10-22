@@ -32,36 +32,43 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!--# Contact Us -->
 
-Have questions? Fill out the form below and we'll get back to you.
-
-<div class="google-form-container">
-  <iframe 
-    src="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform?embedded=true" 
-    width="100%" 
-    height="1700" 
-    frameborder="0" 
-    marginheight="0" 
-    marginwidth="0" 
-    scrolling="no">
-    Loading…
-  </iframe>
+<div class="contact-section">
+  <h2>Have questions? Fill out the form below and we'll get back to you.</h2>
+  <p>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       class="form-link">
+      Click here to open the contact form
+    </a>
+  </p>
 </div>
 
 <style>
-.google-form-container {
-  max-width: 700px;
-  margin: 2rem auto;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.google-form-container iframe {
-  display: block;
-  background: white;
-  overflow: hidden;
-}
+  .contact-section {
+    max-width: 700px;
+    margin: 2rem auto;
+    text-align: center;
+  }
+  
+  .form-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #4285f4;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s;
+  }
+  
+  .form-link:hover {
+    background-color: #357ae8;
+  }
 </style>
+
+
+
 
 {% include section.html %}
 
