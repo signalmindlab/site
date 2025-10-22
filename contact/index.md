@@ -13,12 +13,14 @@ our passion for intersection of AI/ML, signal processing, and data analytics.
 
 Direct Email
 Send your inquiries to: 
+<div align="left">
 {%
   include button.html
   type="email"
   text="hello@signalmindlab.org"
   link="hello@signalmindlab.org"
 %}
+</div>
 Best for: Detailed questions, collaboration proposals, or urgent matters.
 
 <!--{%
