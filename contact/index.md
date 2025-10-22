@@ -10,12 +10,17 @@ nav:
 We're always excited to connect with students, researchers, and partners who share 
 our passion for intersection of AI/ML, signal processing, and data analytics. 
 
+
+Direct Email
+Send your inquiries to: 
 {%
   include button.html
   type="email"
   text="hello@signalmindlab.org"
   link="hello@signalmindlab.org"
 %}
+Best for: Detailed questions, collaboration proposals, or urgent matters.
+
 <!--{%
   include button.html
   type="phone"
