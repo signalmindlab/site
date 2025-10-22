@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Driven by an interdisciplinary approach, Signal Mind Lab aims to bridge computational intelligence and real-world human challenges — from decoding complex brain signals to improving healthcare decision-making through transparent AI systems.
 
 {% include section.html %}
 
