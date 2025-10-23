@@ -1,6 +1,6 @@
 ---
 title: "New Publication: Thyroid Cancer Recurrence Prediction"
-author: Your Name
+author:Md Abdus Samad
 date: 2025-01-XX
 tags:
   - publication
