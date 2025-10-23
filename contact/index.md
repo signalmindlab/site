@@ -29,13 +29,14 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   link="+1-555-867-5309"
 %}-->
 
-
+<div>
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
+</div>
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!--# Contact Us -->
 
@@ -74,12 +75,14 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   }
 </style> -->
 
+<div>
 {%
 include button.html
 type="link"
 text="Fill out our contact form"
 link="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform"
 %}
+</div>
 
 **Best for:** Quick questions, tour requests, or initial interest
 
