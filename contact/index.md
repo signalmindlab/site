@@ -103,7 +103,7 @@ link="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIsk
 
 
 
-
+<!--
 {% include section.html %}
 
 {% capture col1 %}
@@ -149,3 +149,4 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+-->
