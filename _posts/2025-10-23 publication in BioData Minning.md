@@ -17,15 +17,3 @@ We're excited to announce our latest research has been accepted for publication 
 **DOI:** [10.1186/s13040-025-00494-1](https://doi.org/10.1186/s13040-025-00494-1)
 
 **Journal:** BioData Mining
-
-## Abstract
-
-This study presents a novel approach combining CatBoost with physics-based metaheuristics for predicting thyroid cancer recurrence, achieving superior performance compared to traditional methods.
-
-## Key Findings
-
-- Novel integration of CatBoost with physics-based metaheuristics
-- Improved prediction accuracy for thyroid cancer recurrence
-- Clinical implications for early detection and intervention
-
-{% include citation.html lookup="10.1186/s13040-025-00494-1" %}
