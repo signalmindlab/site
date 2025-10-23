@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: hello@signalmindlab.org
-<!--  orcid: 0000-0002-1990-6924 -->
-<!--  google-scholar: NmUWfQIAAAAJ&hl=en -->
+ # orcid: 0000-0002-1990-6924 
+  # google-scholar: NmUWfQIAAAAJ&hl=en 
   twitter: "@SignalMindLab"
   facebook: SignalMindLab
   instagram : signalmindlab
