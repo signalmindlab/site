@@ -1,7 +1,7 @@
 ---
 title: "New Publication: Thyroid Cancer Recurrence Prediction"
 author: Md Abdus Samad
-date: 2025-01-XX
+date: 2025-01-23
 tags:
   - publication
   - machine-learning
@@ -20,12 +20,12 @@ We're excited to announce our latest research has been accepted for publication 
 
 ## Abstract
 
-[Add your abstract here]
+This study presents a novel approach combining CatBoost with physics-based metaheuristics for predicting thyroid cancer recurrence, achieving superior performance compared to traditional methods.
 
 ## Key Findings
 
-- [Highlight 1]
-- [Highlight 2]
-- [Highlight 3]
+- Novel integration of CatBoost with physics-based metaheuristics
+- Improved prediction accuracy for thyroid cancer recurrence
+- Clinical implications for early detection and intervention
 
 {% include citation.html lookup="10.1186/s13040-025-00494-1" %}
