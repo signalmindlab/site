@@ -74,8 +74,12 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   }
 </style> -->
 
-#### 📝 Online Form
-**[Fill out our contact form here](https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform)**
+{%
+include button.html
+type="link"
+text="Fill out our contact form"
+link="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIskqSv6V2niDE8VKK7w/viewform"
+%}
 
 **Best for:** Quick questions, tour requests, or initial interest
 
