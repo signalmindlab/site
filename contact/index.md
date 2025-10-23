@@ -29,12 +29,12 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}-->
-<!--{%
+{%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
-%}-->
+%}
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!--# Contact Us -->
 
