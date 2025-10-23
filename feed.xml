@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.signalmindlab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.signalmindlab.org/" rel="alternate" type="text/html" /><updated>2025-10-23T03:04:07+00:00</updated><id>https://www.signalmindlab.org/feed.xml</id><title type="html">SignalMind Lab</title><subtitle>SignalMind Lab is an interdisciplinary research laboratory at the intersection of AI/ML, neuroscience, signal processing, and data analytics. We advance scientific understanding through collaborative research partnerships with academic institutions worldwide.</subtitle><entry><title type="html">Example post 3</title><link href="https://www.signalmindlab.org/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2025-10-23T03:03:14+00:00</updated><id>https://www.signalmindlab.org/2023/02/23/example-post-3</id><content type="html" xml:base="https://www.signalmindlab.org/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.signalmindlab.org/images/photo.jpg" /><media:content medium="image" url="https://www.signalmindlab.org/images/photo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example post 2</title><link href="https://www.signalmindlab.org/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-10-23T03:03:14+00:00</updated><id>https://www.signalmindlab.org/2021/09/30/example-post-2</id><content type="html" xml:base="https://www.signalmindlab.org/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="https://www.signalmindlab.org/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-10-23T03:03:14+00:00</updated><id>https://www.signalmindlab.org/2019/01/07/example-post-1</id><content type="html" xml:base="https://www.signalmindlab.org/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.signalmindlab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.signalmindlab.org/" rel="alternate" type="text/html" /><updated>2025-10-23T03:20:30+00:00</updated><id>https://www.signalmindlab.org/feed.xml</id><title type="html">SignalMind Lab</title><subtitle>SignalMind Lab is an interdisciplinary research laboratory at the intersection of AI/ML, neuroscience, signal processing, and data analytics. We advance scientific understanding through collaborative research partnerships with academic institutions worldwide.</subtitle><entry><title type="html">Example post 3</title><link href="https://www.signalmindlab.org/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2025-10-23T03:19:40+00:00</updated><id>https://www.signalmindlab.org/2023/02/23/example-post-3</id><content type="html" xml:base="https://www.signalmindlab.org/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.signalmindlab.org/images/photo.jpg" /><media:content medium="image" url="https://www.signalmindlab.org/images/photo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example post 2</title><link href="https://www.signalmindlab.org/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-10-23T03:19:40+00:00</updated><id>https://www.signalmindlab.org/2021/09/30/example-post-2</id><content type="html" xml:base="https://www.signalmindlab.org/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">CatBoost with physics-based metaheuristics for thyroid cancer recurrence prediction</title><link href="https://www.signalmindlab.org/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="CatBoost with physics-based metaheuristics for thyroid cancer recurrence prediction" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-10-23T03:19:40+00:00</updated><id>https://www.signalmindlab.org/2019/01/07/example-post-1</id><content type="html" xml:base="https://www.signalmindlab.org/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adip—
+title: “New Publication: Thyroid Cancer Recurrence Prediction”
+author: Your Name
+date: 2025-01-XX
+tags:</p>
+<ul>
+  <li>publication</li>
+  <li>machine-learning</li>
+  <li>
+    <h2 id="healthcare">healthcare</h2>
+  </li>
+</ul>
+
+<p>We’re excited to announce our latest research has been accepted for publication in <strong>BioData Mining</strong>, a journal ranked in the <strong>top 6% of its subject area</strong>!</p>
+
+<h2 id="paper-details">Paper Details</h2>
+
+<p><strong>Title:</strong> CatBoost with physics-based metaheuristics for thyroid cancer recurrence prediction</p>
+
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1186/s13040-025-00494-1">10.1186/s13040-025-00494-1</a></p>
+
+<p><strong>Journal:</strong> BioData Mining</p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>[Add your abstract here]</p>
+
+<h2 id="key-findings">Key Findings</h2>
+
+<ul>
+  <li>[Highlight 1]</li>
+  <li>[Highlight 2]</li>
+  <li>[Highlight 3]</li>
+</ul>
+
+<div class="citation-container">
+  <div class="citation">
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a class="citation-title">
+        [no title info]
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">[no publisher info]</span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">[no date info]</span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">[no id info]</span>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+<p>iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>Md Abdus Samad</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adip— title: “New Publication: Thyroid Cancer Recurrence Prediction” author: Your Name date: 2025-01-XX tags: publication machine-learning healthcare]]></summary></entry></feed>
