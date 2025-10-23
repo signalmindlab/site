@@ -1,7 +1,7 @@
 ---
 title: "New Publication: Thyroid Cancer Recurrence Prediction"
 author: Md Abdus Samad
-date: 2025-01-23
+date: 2025-01-15
 tags:
   - publication
   - machine-learning
