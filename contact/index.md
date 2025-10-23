@@ -11,8 +11,9 @@ We're always excited to connect with students, researchers, and partners who sha
 our passion for intersection of AI/ML, signal processing, and data analytics. 
 
 
-Direct Email
-Send your inquiries to: 
+#### 📧 Direct Email
+Reach out to us directly via email for detailed inquiries or collaboration opportunities.
+
 {%
   include button.html
   type="email"
