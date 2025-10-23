@@ -11,7 +11,7 @@ SignalMind Lab is an interdisciplinary research lab at the intersection of AI/ML
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our goal at SignalMind Lab is to connect the mathematical, computational, and perceptual dimensions of signal interpretation — creating pathways toward more adaptive, explainable, and human-aligned intelligent systems.
 
 {%
   include button.html
