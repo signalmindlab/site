@@ -1,6 +1,6 @@
 ---
 title: Example post 2
-author: jane-smith
+author: Md Abdus Samad
 published: false
 ---
 
