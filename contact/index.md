@@ -102,7 +102,7 @@ link="https://docs.google.com/forms/d/e/1FAIpQLSfSiHK-uUaKFaeHGmHQ8o9q5-jdpApIsk
 > **Response Time:** We aim to respond to all inquiries within 2-3 business days.
 
 
-
+{% comment %}
 <!--
 {% include section.html %}
 
@@ -150,3 +150,4 @@ sed do eiusmod tempor
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 -->
+{% endcomment %}
