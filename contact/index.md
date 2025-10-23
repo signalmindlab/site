@@ -19,7 +19,7 @@ Send your inquiries to:
   text="hello@signalmindlab.org"
   link="hello@signalmindlab.org"
 %}
-</div>
+
 Best for: Detailed questions, collaboration proposals, or urgent matters.
 
 <!--{%
