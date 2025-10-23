@@ -13,7 +13,6 @@ our passion for intersection of AI/ML, signal processing, and data analytics.
 
 Direct Email
 Send your inquiries to: 
-<div align="left">
 {%
   include button.html
   type="email"
@@ -30,7 +29,7 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   link="+1-555-867-5309"
 %}-->
 
-<div align="left">
+
 {%
   include button.html
   type="address"
