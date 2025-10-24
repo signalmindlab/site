@@ -59,8 +59,9 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
   text=text
 %}
 
-{% endcomment %}
 {% capture text %}
+
+{% endcomment %}
 
 We are working together with several people in different countries through collaboration. We want to take the advantages of the power of internet to share ideas and work together.
 
