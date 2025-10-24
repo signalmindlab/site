@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-At Signal Mind Lab, our research explores how signals — whether neural, sensory, environmental, or digital — are perceived, processed, and transformed into meaningful representations of the world. We study the intersection of signal perception, intelligent computation, and cognitive modeling, seeking to understand how information flows across systems both natural and artificial.
-
-Our interdisciplinary team brings together expertise from signal processing, machine learning, neuroscience, systems engineering, and computational modeling. We believe in fostering a collaborative environment where mathematical rigor meets creative exploration, and where diverse perspectives drive innovation in understanding signals in their many forms.
+At **SignalMind Lab**, our research explores how signals — whether embedded in medical images, wireless propagation patterns, IoT sensor streams, or complex datasets — are perceived, processed, and transformed into actionable intelligence. We study the intersection of signal processing, machine learning, and explainable AI, seeking to understand how information flows across telecommunications networks, diagnostic systems, and intelligent applications that bridge the digital and physical worlds.
+Our interdisciplinary team brings together expertise from deep learning, wireless communications, computer vision, data science, and optimization. We develop ensemble methods for medical diagnostics, propagation models for next-generation wireless networks, real-time object detection systems, and intelligent forecasting algorithms for agriculture and finance. We believe in fostering a collaborative environment where mathematical rigor meets practical innovation, where explainable AI demystifies complex models, and where diverse perspectives drive breakthroughs in extracting meaning from signals across healthcare, telecommunications, IoT systems, and beyond.
 
 {% include section.html %}
 
