@@ -14,6 +14,4 @@ We're excited to announce our latest research has been accepted for publication 
 
 **Title:** CatBoost with physics-based metaheuristics for thyroid cancer recurrence prediction
 
-**DOI:** [10.1186/s13040-025-00494-1](https://doi.org/10.1186/s13040-025-00494-1)
-
 **Journal:** BioData Mining
