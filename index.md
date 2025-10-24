@@ -35,9 +35,9 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
 {% capture text %}
 
 {% comment %}
-
 Our goal at SignalMind Lab is to connect the mathematical, computational, and perceptual dimensions of signal interpretation — creating pathways toward more adaptive, explainable, and human-aligned intelligent systems.
-
+{% endcomment %}
+{% comment %}
 {%
   include button.html
   link="projects"
@@ -46,9 +46,11 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
   flip=true
   style="bare"
 %}
+{% endcomment %}
 
 {% endcapture %}
 
+{% comment %}
 {%
   include feature.html
   image="images/photo.jpg"
@@ -58,7 +60,6 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
   style="bare"
   text=text
 %}
-
 {% endcomment %}
 
 {% capture text %}
