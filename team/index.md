@@ -26,10 +26,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% capture content %}
-
+{% comment %}
 {% include figure.html image="images/photo.jpg" %}
+{% endcomment %}
+{% comment %}
 {% include figure.html image="images/photo.jpg" %}
+{% endcomment %}
+{% comment %}
 {% include figure.html image="images/photo.jpg" %}
+{% endcomment %}
 
 {% endcapture %}
 
