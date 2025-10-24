@@ -16,7 +16,9 @@ Our interdisciplinary team brings together expertise from signal processing, mac
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+{% comment %}
 {% include section.html background="images/background.jpg" dark=true %}
+{% endcomment %}
 
 {% comment %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -42,9 +44,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 {% endcomment %}
 
-{% comment %}
+
 {% endcapture %}
-{% endcomment %}
+
 
 {% comment %}
 {% include grid.html style="square" content=content %}
