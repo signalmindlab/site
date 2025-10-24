@@ -1,6 +1,6 @@
 ---
 name: First Last Name
-image: images/photo.jpg
+image: images/male-avatar.svg
 description: Lead Programmer
 role: programmer
 links:
