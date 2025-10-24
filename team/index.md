@@ -42,7 +42,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 {% endcomment %}
 
+{% comment %}
 {% endcapture %}
+{% endcomment %}
+
 {% comment %}
 {% include grid.html style="square" content=content %}
 {% endcomment %}
