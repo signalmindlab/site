@@ -79,7 +79,7 @@ We are working together with several people in different countries through colla
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="we.png"
   link="team"
   title="Our Team"
   text=text
