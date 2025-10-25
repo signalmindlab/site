@@ -26,7 +26,7 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="research"
   title="Our Research"
   text=text
