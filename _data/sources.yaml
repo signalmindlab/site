@@ -1,5 +1,19 @@
 # Publications for MD Abdus Samad, Ph.D.
 
+- id: doi:10.1186/s40537-025-01313-4
+  type: paper
+  title: "Accuracy, precision, recall, f1-score, or MCC? empirical evidence from advanced statistics, ML, and XAI for evaluating business predictive models"
+  date: 2025-01-01
+  publisher: Journal of Big Data
+  link: https://doi.org/10.1186/s40537-025-01313-4
+
+- id: doi:10.1186/s13040-025-00494-1
+  type: paper
+  title: "CatBoost with physics-based metaheuristics for thyroid cancer recurrence prediction"
+  date: 2025-01-01
+  publisher: BioData Mining
+  link: https://doi.org/10.1186/s13040-025-00494-1
+
 - id: doi:10.1186/s40537-025-01132-7
   type: paper
   title: Breast cancer prediction with feature-selected XGB classifier, optimized by metaheuristic algorithms
