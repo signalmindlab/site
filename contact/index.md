@@ -30,16 +30,16 @@ Best for: Detailed questions, collaboration proposals, or urgent matters.
   link="+1-555-867-5309"
 %}-->
 
-#### 📍 Visit Us
-Find our exact location and get directions easily.
-<div>
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
-</div>
+<!-- #### 📍 Visit Us ..>
+<!-- Find our exact location and get directions easily. ..>
+<!-- <div> -->
+<!-- {% -->
+  <!-- include button.html -->
+  <!-- type="address" -->
+  <!-- tooltip="Our location on Google Maps for easy navigation" -->
+  <!-- link="https://www.google.com/maps" -->
+<!-- %} -->
+<!-- </div> -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!--# Contact Us -->
 
