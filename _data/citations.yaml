@@ -764,28 +764,28 @@
   title: Accuracy, precision, recall, f1-score, or MCC? empirical evidence from advanced
     statistics, ML, and XAI for evaluating business predictive models
   authors:
-  - Khaled Mahmud Sujon
-  - Rohayanti Hassan
-  - Kwonhue Choi
-  - Md Abdus Samad
+  - Sujon, K.M.
+  - Hassan, R.
+  - Choi, K.
   publisher: Journal of Big Data
-  date: '2025-01-01'
+  date: '2025-12-09'
   link: https://doi.org/10.1186/s40537-025-01313-4
-  type: paper
+  volume: 12
+  article: 268
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13040-025-00494-1
   title: CatBoost with physics-based metaheuristics for thyroid cancer recurrence
     prediction
   authors:
-  - Proshenjit Sarker
-  - Kwonhue Choi
-  - Abdullah-Al Nahid
-  - Md Abdus Samad
+  - Sarker, P.
+  - Choi, K.
+  - Nahid, AA.
   publisher: BioData Mining
-  date: '2025-01-01'
+  date: '2025-12-09'
   link: https://doi.org/10.1186/s13040-025-00494-1
-  type: paper
+  volume: 18
+  article: 84
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s40537-025-01132-7
