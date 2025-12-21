@@ -17,8 +17,8 @@ image: images/male-avatar.svg
 role: ms
 group: current
 links:
-  email: proshenjit@example.com
-  orcid: 0000-0000-0000-0000
+  email: prosensarker4@gmail.com
+  # orcid: 0000-0000-0000-0000
   google-scholar: xaeKZvUAAAAJ
 ---
 
