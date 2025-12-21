@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: SignalMind Lab
-google-analytics: G-0YT4BHK9MX
+google_analytics: G-0YT4BHK9MX
 subtitle: 
 description: SignalMind Lab is an interdisciplinary research laboratory at the intersection of AI/ML, neuroscience, signal processing, and data analytics. We advance scientific understanding through collaborative research partnerships with academic institutions worldwide.
 header: images/background.jpg
