@@ -16,10 +16,10 @@ search:
 image: images/male-avatar.svg
 role: ms
 group: current
-links:
+# links:
   # email: prosensarker4@gmail.com
   # orcid: 0000-0000-0000-0000
-  google-scholar: xaeKZvUAAAAJ
+  # google-scholar: xaeKZvUAAAAJ
 ---
 
 Proshenjit Sarker is pursuing his Master of Science degree in Electronics and Communication Engineering at Khulna University, Bangladesh, where he also completed his Bachelor's degree. His research focuses on machine learning, metaheuristic optimization algorithms, and explainable AI with applications in medical diagnosis and human activity recognition.
