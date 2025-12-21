@@ -17,7 +17,7 @@ Our goal at SignalMind Lab is to connect the mathematical, computational, and pe
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1186/s40537-025-01132-7" style="rich" %}
+{% include citation.html lookup="doi:10.1186/s13040-025-00494-1" style="rich" %}
 
 {% include section.html %}
 

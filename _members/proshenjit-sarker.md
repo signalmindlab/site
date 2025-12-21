@@ -1,5 +1,18 @@
 ---
 name: Proshenjit Sarker
+aliases:
+  - P. Sarker
+  - Sarker, P.
+  - P Sarker
+  - Sarker Proshenjit
+  - Proshenjit S.
+search:
+  - Proshenjit Sarker
+  - P. Sarker
+  - Sarker, P.
+  - P Sarker
+  - Sarker
+  - Proshenjit
 image: images/male-avatar.svg
 role: ms
 group: current
