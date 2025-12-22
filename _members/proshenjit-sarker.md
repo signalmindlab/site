@@ -1,5 +1,6 @@
 ---
 name: Proshenjit Sarker
+affiliation: Khulna University
 aliases:
   - P. Sarker
   - Sarker, P.
