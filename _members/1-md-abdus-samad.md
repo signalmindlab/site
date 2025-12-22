@@ -1,7 +1,7 @@
 ---
 name: Md Abdus Samad
 image: images/mas.jpg
-role: principal-investigator
+# role: principal-investigator
 affiliation: Yeungnam University
 aliases:
   - M.A. Samad
