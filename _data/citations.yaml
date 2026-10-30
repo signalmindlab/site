@@ -1,5 +1,54 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s44163-026-02070-w
+  title: A systematic review of machine learning and explainable artificial intelligence
+    for electrocardiogram based cardiovascular disease prediction
+  authors:
+  - Sabit Ahamed Preanto
+  - Md. Hasan Imam Bijoy
+  - Tapon Paul
+  - Faria Khan
+  - Md. Zahid Hasan
+  - Mohammad Shamsul Arefin
+  - Pranab Kumar Dhar
+  - ' Ohidujjaman'
+  - Md Abdus Samad
+  publisher: Discover Artificial Intelligence
+  date: '2026-08-29'
+  link: https://doi.org/hcg8kt
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.icte.2026.06.001
+  title: 'Multimodal data fusion in deep learning for diabetic retinopathy detection:
+    A systematic review'
+  authors:
+  - Kartina Diah Kesuma Wardhani
+  - Shahreen Kasim
+  - Rohayanti Hassan
+  - Rahmat Hidayat
+  - Khaled Mahmud Sujon
+  - Md Abdus Samad
+  publisher: ICT Express
+  date: '2026-08-01'
+  link: https://doi.org/hb7pwx
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.icte.2026.04.002
+  title: Gradient Boosting Classifier with Zebra optimization algorithm for pregnancy
+    risk prediction
+  authors:
+  - Proshenjit Sarker
+  - Abdullah-Al Nahid
+  - Md Abdus Samad
+  - Kwonhue Choi
+  publisher: ICT Express
+  date: '2026-06-01'
+  link: https://doi.org/hbxpxw
+  orcid: 0000-0002-1990-6924
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/cancers17172853
   title: Explainable Deep Ensemble Meta-Learning Framework for Brain Tumor Classification
     Using MRI Images
